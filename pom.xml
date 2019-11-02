@@ -501,7 +501,7 @@
       <name>Releases</name>
       <url>http://35.173.195.56:8081/nexus/content/repositories/Nexus-1/</url>
     </repository>
-          <repository>
+    <repository>
       <id>12345</id>
       <name>Snapshots</name>
       <url>http://35.173.195.56:8081/nexus/content/repositories/Nexus-Snap/</url>
